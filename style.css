@@ -1,0 +1,34 @@
+body {
+  background-color: cornsilk;
+}
+h1 {
+  text-align: center;
+  color: darkred;
+  background-color:blanchedalmond;
+}
+h2 {
+  text-align: center;
+  color: darkred;
+  background-color: bisque;
+}
+h3 {text-align: center;
+  color: darkred;
+  background-color: bisque;
+}
+p {
+  text-align: center;
+  color: darkred;
+  background-color: beige;
+}
+p {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-right: 100px;
+  margin-left: 80px;
+}
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
